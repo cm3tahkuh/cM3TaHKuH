@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cM3TaHKuH
 - 👀 I’m interested in create the sites
-- 🌱 I’m currently learning html css js php react
+- 🌱 I’m currently learning html css js react
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me vk.com/cmetahkuh
 
