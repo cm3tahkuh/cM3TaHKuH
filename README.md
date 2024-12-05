@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a target="_blank" href="https://t.me/cmetahkuh">
+  <a target="_blank" href="https://t.me/123123">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
